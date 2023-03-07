@@ -1,4 +1,4 @@
 # BAIT - CIT101 - Fundamentals of Programming 
 
-### All Python Solutions
+### Practical 5 - All Python Solutions
 
