@@ -4,6 +4,6 @@ the string "Radio Detecting and Ranging"
 
 '''
 
-name = "Radio Detecting and Ranging"
-acronym = name[0:2] + name[6] + name[16] + name[-7]
+text = "Radio Detecting and Ranging"
+acronym = text[0:2] + text[6] + text[16] + text[-7]
 print(acronym.upper())

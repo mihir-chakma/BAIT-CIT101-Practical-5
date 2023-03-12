@@ -3,11 +3,13 @@ Write a Python application to input any word and find the ratio of the frequency
 letter in the word to the length of the word. Provide five different outputs.
 """
 
-word = input("Enter a word: ")
-letter = input("Enter a letter: ")
+word = input("Input a word: ")
+letter = input("Input a letter to find the frequency: ")
 
-count = word.count(letter)
-ratio = count / len(word)
+word_length = len(word)
 
-print(f"The ratio of '{letter}' in '{word}' is {ratio:.2f}")
+letter_count = word.count(letter)
+
+print(f"Frequency of letter {letter}: and Word Length = {letter_count}:{word_length}")
+
 
