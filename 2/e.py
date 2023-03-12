@@ -15,10 +15,15 @@ paragraph = "A machine is a great moral educator. If a horse or a donkey won't g
 print(f"The first letter of the English alphabet appears : {paragraph.count('a', 1, len(paragraph))}")
 
 
-count = 0
-for letter in paragraph:
-    if letter == 'A' or letter == 'a':
-        count += 1
 
-print(f"The letter 'A' appears {count} times in the paragraph.")
+
+
+
+
+# count = 0
+# for letter in paragraph:
+#     if letter == 'A' or letter == 'a':
+#         count += 1
+
+# print(f"The letter 'A' appears {count} times in the paragraph.")
 
