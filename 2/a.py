@@ -10,6 +10,14 @@ all = f"{text[8:13]} \n{text[-15:-11]} \n{text[23:26]} \n{text[-4:-1]} \n{text[9
 
 print(all)
 
+
+
+
+
+
+
+
+
 # print(text[2:6])
 # print(text[8:13])
 # print(text[-15:-11])

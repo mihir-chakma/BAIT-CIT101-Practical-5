@@ -6,17 +6,9 @@ Write a single Python statement to generate the following pattern.
 **** 
 """
 
-print("""
-*
-**
-***
-****
-""")
-
 print("*\n**\n***\n****")
 
 
-# print("*"*1 + '\n' + "*"*2,'\n' + "*"*3 + '\n' + "*"*4 + '\n' + "*"*5)
 
 
 # using doc string 
